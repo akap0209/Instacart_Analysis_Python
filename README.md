@@ -1,1 +1,2 @@
 # Instacart_Analysis_Python
+Instcart is an online grocery store that operates through an app. They have good sales historically but want to uncover more information about the patterns of their sales.
